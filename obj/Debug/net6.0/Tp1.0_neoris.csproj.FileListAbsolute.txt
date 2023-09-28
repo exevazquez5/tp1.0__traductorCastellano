@@ -1,0 +1,15 @@
+D:\Users\Exequiel\source\repos\Tp1.0_neoris\obj\Debug\net6.0\Tp1.0_neoris.csproj.AssemblyReference.cache
+D:\Users\Exequiel\source\repos\Tp1.0_neoris\obj\Debug\net6.0\Tp1.0_neoris.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Exequiel\source\repos\Tp1.0_neoris\obj\Debug\net6.0\Tp1.0_neoris.AssemblyInfoInputs.cache
+D:\Users\Exequiel\source\repos\Tp1.0_neoris\obj\Debug\net6.0\Tp1.0_neoris.AssemblyInfo.cs
+D:\Users\Exequiel\source\repos\Tp1.0_neoris\obj\Debug\net6.0\Tp1.0_neoris.csproj.CoreCompileInputs.cache
+D:\Users\Exequiel\source\repos\Tp1.0_neoris\bin\Debug\net6.0\Tp1.0_neoris.exe
+D:\Users\Exequiel\source\repos\Tp1.0_neoris\bin\Debug\net6.0\Tp1.0_neoris.deps.json
+D:\Users\Exequiel\source\repos\Tp1.0_neoris\bin\Debug\net6.0\Tp1.0_neoris.runtimeconfig.json
+D:\Users\Exequiel\source\repos\Tp1.0_neoris\bin\Debug\net6.0\Tp1.0_neoris.dll
+D:\Users\Exequiel\source\repos\Tp1.0_neoris\bin\Debug\net6.0\Tp1.0_neoris.pdb
+D:\Users\Exequiel\source\repos\Tp1.0_neoris\obj\Debug\net6.0\Tp1.0_neoris.dll
+D:\Users\Exequiel\source\repos\Tp1.0_neoris\obj\Debug\net6.0\refint\Tp1.0_neoris.dll
+D:\Users\Exequiel\source\repos\Tp1.0_neoris\obj\Debug\net6.0\Tp1.0_neoris.pdb
+D:\Users\Exequiel\source\repos\Tp1.0_neoris\obj\Debug\net6.0\Tp1.0_neoris.genruntimeconfig.cache
+D:\Users\Exequiel\source\repos\Tp1.0_neoris\obj\Debug\net6.0\ref\Tp1.0_neoris.dll
